@@ -1,0 +1,56 @@
+{
+
+	"apellido": "Rodriguez",
+	"numero_de_integrantes": 10,
+	"localidad_de_origen": "Distrito Nacional, Santo Domingo, R.D.",
+	
+	"abuela": {
+		"nombre": "Juana Antonia",
+		"edad": 83,
+		"viva": false
+	},
+	
+	"hijos": {
+	
+		"henrry": {
+			"nombre": "Pedro Rodriguez",
+			"edad": 40
+		},
+		
+		"frank": {
+			"nombre": "Juan Solano",
+			"edad": 50
+		}
+		
+	},
+	
+	"fechas_de_reuniones": [
+		"Semana Santa",
+		"Navidad",
+		"Dia de las madres",
+		"Festivales",
+		"Cumpleaño de la abuela"
+	],
+	
+	"frutas": [
+		{
+		"nombre": "Mango",
+		"familia": "anacardiáceas",
+		"caracteristicas": {
+			"color": "amarillo",
+			"sabor": "dulce"
+			}
+		},
+		
+		{
+		"nombre": "limon",
+		"familia": "citricos",
+		"caracteristicas": {
+			"color": "verde",
+			"sabor": "agrio"
+			}
+		}
+	]
+	
+	
+}
